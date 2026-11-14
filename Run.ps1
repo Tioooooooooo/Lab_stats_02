@@ -1,0 +1,1 @@
+marimo run ./lab01_marimo.py
